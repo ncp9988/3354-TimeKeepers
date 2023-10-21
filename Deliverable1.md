@@ -10,10 +10,10 @@ Illiana Rodriguez Huerta, Isaiah Shadd, Nathaniel Tan
 ### 1. Final Project Draft Description and Feedback
 
 #### What We Are Doing
-	A versatile calendar software designed to offer a range of essential features for effective time management and organization. It will include various viewing options, each displaying events and schedules. Users will be able to add, edit, delete, and categorize events, with built-in conflict checking and event alerts. The software will also support the creation of recurring events and color-coding for event categories. Moreover, it will provide color highlights for holidays and weekends, and will support zooming and scrolling for enhanced usability.
+A versatile calendar software designed to offer a range of essential features for effective time management and organization. It will include various viewing options, each displaying events and schedules. Users will be able to add, edit, delete, and categorize events, with built-in conflict checking and event alerts. The software will also support the creation of recurring events and color-coding for event categories. Moreover, it will provide color highlights for holidays and weekends, and will support zooming and scrolling for enhanced usability.
 
 #### Motivation
-	Our main motivation is to provide an efficient and user-friendly tool to help individuals better manage their schedules and events. We chose this project because we have experienced first hand the struggle that comes with personal time management, work scheduling, and coordinating with others. Thus, we will address the common challenges that people face in hopes to provide a calendar software that will enhance productivity and user experience.
+Our main motivation is to provide an efficient and user-friendly tool to help individuals better manage their schedules and events. We chose this project because we have experienced first hand the struggle that comes with personal time management, work scheduling, and coordinating with others. Thus, we will address the common challenges that people face in hopes to provide a calendar software that will enhance productivity and user experience.
 
 #### Delegated Tasks
 Henry Jones: Will serve as the scrum master, responsible for guiding the project's overall development process.
@@ -52,6 +52,9 @@ Add an agenda view as well as checking for time conflicts, periodical events, ed
 Implement adding/deleting event categories, color marking for different categories of events, sending events to other calendar users, holidays and weekends in special colors, and zoom-in/zoom-out scroll support.
 	Each of these increments consists of a miniature version of the waterfall model, with each increment including communication, planning, modeling, construction, and deployment phases as depicted in the diagram below:
 
+![](4.png)
+
+
 ### 5. Software Requirements
 #### Functional Requirements:
 - Event Scheduling: The software’s most basic feature is scheduling events to the calendar. The user should be able to specify times and dates, locations, durations, repetitions, and a description of the event of their choice. The software should know if an event will conflict with an existing event and alert the user if it’s the case.
@@ -85,25 +88,35 @@ Safety/Security Requirements: The software should provide secure and reliable ac
 
 ### 6. Case Diagram
 
+![](6.png)
+
 
 ### 7. Sequence Diagram
 
 View:
 
+![](7a.png)
 
 
 Create Event:
 
+![](7b.png)
 
 
 Edit Event:
 
+![](7c.png)
+
 
 Share:
+
+![](7d.png)
 
 
 
 ### 8. Class Diagram
+
+![](8.png)
 
 
 ### 9. Architectural Design
