@@ -4,8 +4,13 @@
 
 ## Calendar Software Project
 
-Robert Berghian, Henry Jones, Josh Pahman, Shelby Pham,
-Illiana Rodriguez Huerta, Isaiah Shadd, Nathaniel Tan
+[Robert Berghian] : https://github.com/Robert02110
+[Henry Jones] : https://github.com/daot
+[Josh Pahman] : https://github.com/jpahm
+[Shelby Pham] : https://github.com/ncp9988
+[Illiana Rodriguez Huerta] : https://github.com/illianardz
+[Isaiah Shadd] : https://github.com/Ishadd97
+[Nathaniel Tan] : https://github.com/Nathaniel220000
 
 ### 1. Final Project Draft Description and Feedback
 
@@ -93,22 +98,22 @@ Safety/Security Requirements: The software should provide secure and reliable ac
 
 ### 7. Sequence Diagram
 
-View:
+#### View:
 
 ![](7a.png)
 
 
-Create Event:
+#### Create Event:
 
 ![](7b.png)
 
 
-Edit Event:
+#### Edit Event:
 
 ![](7c.png)
 
 
-Share:
+#### Share:
 
 ![](7d.png)
 
