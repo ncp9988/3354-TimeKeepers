@@ -1,6 +1,6 @@
 ## Team TimeKeepers
 
-###  CS3354 Software Engineering Section 3354.001
+###  UTD - CS3354 Software Engineering - Section 001
 #### Final Project Deliverable 1
 
 
